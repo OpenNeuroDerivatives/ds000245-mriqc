@@ -1,1 +1,18 @@
-../../../../.git/annex/objects/Z1/6v/MD5E-s931--01b1f6e676390037aa12e9e6950a7619/MD5E-s931--01b1f6e676390037aa12e9e6950a7619
+Warning: Permanently added 'c187-141' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c187-201' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c188-052' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c189-042' (ED25519) to the list of known hosts.
+WARNING (03/05/22 22:54:19): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120758.hostlist.wgd2oAUK to get hosts
+starting job on c140-131
+starting job on c143-142
+starting job on c143-144
+starting job on c143-183
+starting job on c143-191
+starting job on c187-141
+starting job on c187-201
+starting job on c188-052
+starting job on c189-042
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+Terminated
